@@ -1,4 +1,4 @@
-# burleyson-etal_2026b_applied_energy
+# burleyson-etal_2026_IJEPES
 
 ## Workflow
 Use the following notebooks to rerun the analysis and reproduce the main and supplementary figures. The analysis is currently 
